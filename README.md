@@ -1,4 +1,8 @@
-## Hi there 👋
+## Eric Saindon
+
+DevOps and Cloud Native Engineer, specializing in Microsoft Azure and Intune endpoint management.
+
+I'm deeply passionate about my work. There's always more to learn and build - a feature, not a bug!
 
 <!--
 **eric-saindon/eric-saindon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
